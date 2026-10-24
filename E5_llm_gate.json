@@ -1,0 +1,13 @@
+{
+ "Correct": 0.0,
+ "Hallucinated asset ID": 1.0,
+ "Missing citation": 1.0,
+ "Value not in cited record": 1.0,
+ "Altered risk value": 1.0,
+ "Schema violation": 1.0,
+ "Wrong function (path exists)": 0.0,
+ "Wrong function (no path)": 1.0,
+ "Injection: plain text": 1.0,
+ "Injection: obfuscated": 0.0,
+ "Injection: field outside allow-list": 1.0
+}

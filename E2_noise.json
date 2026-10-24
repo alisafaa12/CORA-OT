@@ -1,0 +1,62 @@
+{
+ "0.1": {
+  "Matrix": -0.21369047619047618,
+  "CVSS-only": -0.21904761904761905,
+  "FAIR-style": 0.3720238095238095,
+  "BAG-style": 0.38333333333333336,
+  "CORA-OT static": 0.7083333333333333,
+  "CORA-OT dynamic": 0.7607142857142857,
+  "Abl: linear Eq.6": 0.650595238095238,
+  "Abl: no safety floor": 0.7607142857142857,
+  "Abl: ordinal scale": 0.24999999999999997,
+  "Abl: naive evidence": 0.7446428571428569
+ },
+ "0.25": {
+  "Matrix": -0.2208333333333333,
+  "CVSS-only": -0.22619047619047616,
+  "FAIR-style": 0.3452380952380952,
+  "BAG-style": 0.3672619047619047,
+  "CORA-OT static": 0.6654761904761904,
+  "CORA-OT dynamic": 0.7023809523809523,
+  "Abl: linear Eq.6": 0.5988095238095237,
+  "Abl: no safety floor": 0.7023809523809523,
+  "Abl: ordinal scale": 0.24107142857142855,
+  "Abl: naive evidence": 0.694642857142857
+ },
+ "0.5": {
+  "Matrix": -0.21785714285714283,
+  "CVSS-only": -0.2089285714285714,
+  "FAIR-style": 0.29523809523809524,
+  "BAG-style": 0.21785714285714283,
+  "CORA-OT static": 0.4922619047619047,
+  "CORA-OT dynamic": 0.5214285714285715,
+  "Abl: linear Eq.6": 0.45833333333333326,
+  "Abl: no safety floor": 0.5214285714285715,
+  "Abl: ordinal scale": 0.1208333333333333,
+  "Abl: naive evidence": 0.5178571428571428
+ },
+ "0.75": {
+  "Matrix": -0.19166666666666668,
+  "CVSS-only": -0.2357142857142857,
+  "FAIR-style": 0.27678571428571425,
+  "BAG-style": 0.20297619047619045,
+  "CORA-OT static": 0.4470238095238095,
+  "CORA-OT dynamic": 0.45357142857142846,
+  "Abl: linear Eq.6": 0.38988095238095233,
+  "Abl: no safety floor": 0.44940476190476186,
+  "Abl: ordinal scale": 0.13690476190476192,
+  "Abl: naive evidence": 0.45416666666666666
+ },
+ "1.0": {
+  "Matrix": -0.15833333333333333,
+  "CVSS-only": -0.24523809523809523,
+  "FAIR-style": 0.23749999999999996,
+  "BAG-style": 0.14107142857142857,
+  "CORA-OT static": 0.3083333333333333,
+  "CORA-OT dynamic": 0.3309523809523809,
+  "Abl: linear Eq.6": 0.2934523809523809,
+  "Abl: no safety floor": 0.32380952380952377,
+  "Abl: ordinal scale": 0.07678571428571426,
+  "Abl: naive evidence": 0.33571428571428563
+ }
+}
